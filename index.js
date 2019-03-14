@@ -1,0 +1,1 @@
+module.exports = require('./nrc_emotion_words');
