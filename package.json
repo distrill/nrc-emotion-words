@@ -8,6 +8,10 @@
     "emotion",
     "lexicon"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/distrill/nrc-emotion-words.git"
+  },
   "author": "Brent Hamilton <bh@explorationengineering.com>",
   "license": "MIT"
 }
