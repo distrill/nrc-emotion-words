@@ -1,7 +1,7 @@
 {
   "name": "nrc-emotion-words",
-  "version": "1.0.0",
-  "description": "List of words and their associated emotion lexicon. Origin - https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm",
+  "version": "1.0.1",
+  "description": "List of words and their associated emotion lexicon.",
   "main": "index.js",
   "keywords": [
     "nrc",
@@ -13,5 +13,9 @@
     "url": "https://github.com/distrill/nrc-emotion-words.git"
   },
   "author": "Brent Hamilton <bh@explorationengineering.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "natural": "^0.6.3"
+  }
 }
